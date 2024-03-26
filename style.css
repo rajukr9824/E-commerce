@@ -1,0 +1,164 @@
+h1 {
+    text-align: center;
+    color: rgb(9, 131, 253);
+    font-size: 16px;
+}
+
+li {
+    float: left;
+    margin: 5px;
+}
+
+li a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+nav li a:active {
+    text-decoration: none;
+    color: rgb(18, 17, 17);
+}
+
+nav li a:hover {
+    color: rgb(34, 22, 22);
+    text-decoration: none;
+}
+
+nav li a:visited {
+    color: rgb(17, 17, 14);
+    text-decoration: none;
+}
+
+.home {
+    border: 5px solid black;
+    padding: 42px;
+    border-radius: 2px;
+    margin: 33px 355px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.abcd {
+    background-image: url('iStock-957125704-1068x712.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.vision {
+    border: 2px solid black;
+    display: inline-block;
+    padding: 15px;
+    margin: 25px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.mission {
+    border: 2px solid black;
+    display: inline-block;
+    padding: 15px;
+    margin: 25px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.login {
+    border: 5px solid black;
+    padding: 42px;
+    border-radius: 2px;
+    margin: 66px 609px;
+    font-weight: bold;
+    display: inline-block;
+    background-color: antiquewhite;
+}
+
+.register {
+    border: 5px solid black;
+    padding: 74px;
+    border-radius: 35px;
+    margin: 47px 609px;
+    font-weight: bold;
+    display: inline-block;
+    background-color: aqua;
+}
+
+.contact {
+    border: 2px solid black;
+    background-color: rgb(152, 181, 213);
+    display: inline-block;
+    padding: 50px;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+
+.adress {
+    border: 5px solid black;
+    padding: 42px;
+    border-radius: 12px;
+    margin: 66px 609px;
+    font-weight: bold;
+    display: inline-block;
+    background-color: rgb(120, 221, 114);
+}
+
+.pay {
+    border: 5px solid black;
+    padding: 42px;
+    border-radius: 12px;
+    margin: 66px 609px;
+    font-weight: bold;
+    display: inline-block;
+    background-color: rgb(228, 128, 135)
+}
+
+.serve {
+    border: 2px solid black;
+    padding: 26px;
+    background-color: blanchedalmond;
+    margin: 15px 285px;
+    display: inline-block;
+    border-radius: 30px;
+    font-size: larger;
+    width: 50%;
+}
+
+.lis {
+    float: none;
+}
+
+.btn a {
+    text-decoration: none;
+}
+
+body {
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.prod {
+    display: inline-block;
+    margin-left: 450px;
+    margin-top: 50px;
+}
+
+table tr th img {
+    margin: -46px;
+    width: 218px;
+    height: 150px;
+    padding: 50px;
+}
+
+table tr td a {
+    text-decoration: none;
+}
+
+.products {
+    margin-left: 350px;
+    margin-top: 50px;
+}
